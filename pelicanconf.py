@@ -35,6 +35,13 @@ RELATIVE_URLS = True
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['sitemap', 'assets']
 SITEMAP = {'format': 'xml'}
+MENUITEMS = (
+    ("Home", "index.html"),
+    ("Downloads", "downloads.html"),
+    ("Getting Started", "getting-started.html"),
+    ("Contributing", "contributing.html"),
+    ("Help", "help.html"),
+    )
 
 # Menu
 DISPLAY_CATEGORIES_ON_MENU = False
