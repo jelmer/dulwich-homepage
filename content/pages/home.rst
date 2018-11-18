@@ -12,7 +12,7 @@ Supported Python versions are 2.7, 3.4 and 3.5.
 Documentation
 #############
 
-  * `API documentation <apidocs>`_
+  * `API documentation <docs/api/>`_
   * `documentation (including basic tutorial) <docs>`_
 
 License

@@ -39,6 +39,12 @@ To install Dulwich without building the C extensions, run::
 Tarballs
 ========
 
+  * `0.19.9 <releases/dulwich-0.19.9.tar.gz>`_ (`0.19.9 GPG signature <releases/dulwich-0.19.9.tar.gz.asc>`_)
+  * `0.19.8 <releases/dulwich-0.19.8.tar.gz>`_ (`0.19.8 GPG signature <releases/dulwich-0.19.8.tar.gz.asc>`_)
+  * `0.19.7 <releases/dulwich-0.19.7.tar.gz>`_ (`0.19.7 GPG signature <releases/dulwich-0.19.7.tar.gz.asc>`_)
+  * `0.19.6 <releases/dulwich-0.19.6.tar.gz>`_ (`0.19.6 GPG signature <releases/dulwich-0.19.6.tar.gz.asc>`_)
+  * `0.19.5 <releases/dulwich-0.19.5.tar.gz>`_ (`0.19.5 GPG signature <releases/dulwich-0.19.5.tar.gz.asc>`_)
+  * `0.19.4 <releases/dulwich-0.19.4.tar.gz>`_ (`0.19.4 GPG signature <releases/dulwich-0.19.4.tar.gz.asc>`_)
   * `0.19.3 <releases/dulwich-0.19.3.tar.gz>`_ (`0.19.3 GPG signature <releases/dulwich-0.19.3.tar.gz.asc>`_)
   * `0.19.2 <releases/dulwich-0.19.2.tar.gz>`_ (`0.19.2 GPG signature <releases/dulwich-0.19.2.tar.gz.asc>`_)
   * `0.19.1 <releases/dulwich-0.19.1.tar.gz>`_ (`0.19.1 GPG signature <releases/dulwich-0.19.1.tar.gz.asc>`_)
