@@ -5,7 +5,7 @@ Dulwich is a Python implementation of the Git file formats and protocols, which 
 
 All functionality is available in pure Python. Optional C extensions can be built for improved performance.
 
-Dulwich takes its name from the area in London where the friendly `Mr. and Mrs. Git <https://www.youtube.com/watch?v=HtyO4tmpPdk>`_ once attended a cocktail party.
+Dulwich takes its name from the area in London where the friendly Mr. and Mrs. Git once attended a cocktail party.
 
 Supported Python versions are 2.7, 3.4 and 3.5.
 
