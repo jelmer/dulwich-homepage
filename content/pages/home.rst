@@ -7,7 +7,9 @@ All functionality is available in pure Python. Optional C extensions can be buil
 
 Dulwich takes its name from the area in London where the friendly Mr. and Mrs. Git once attended a cocktail party.
 
-Supported Python versions are 2.7, 3.4 and 3.5.
+Supported Python versions are Python 3.5 and later. Versions of Dulwich prior
+to 0.20 also supported Python 2.7. Supported platforms include Linux, Mac OS X
+and Windows.
 
 Documentation
 #############
