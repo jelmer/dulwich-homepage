@@ -9,7 +9,7 @@ There are two mailing lists for Dulwich, a `discussion list <https://groups.goog
 IRC Channel
 ###########
 
-There is a *#dulwich* IRC channel on `irc.freenode.net <https://www.freenode.net/>`_
+There is a *#dulwich* IRC channel on `irc.oftc.net <https://www.oftc.net/>`_
 
 Stackoverflow
 #############
