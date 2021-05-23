@@ -3,3 +3,6 @@ apidocs/
 releases/
 *~
 content/pages/tarballs.rst
+*.pyc
+__pycache__
+output
