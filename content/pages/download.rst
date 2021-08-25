@@ -16,7 +16,7 @@ If you don't want to install the C bindings, specify the --pure argument to setu
     $ pip install dulwich --global-option="--pure"
 
 Note that you can also specify --global-option in a
-[requirements.txt](https://pip.pypa.io/en/stable/reference/pip_install/#requirement-specifiers)
+`requirements.txt <https://pip.pypa.io/en/stable/reference/pip_install/#requirement-specifiers>`_
 file, e.g. like this::
 
     dulwich --global-option=--pure
@@ -40,4 +40,19 @@ Tarballs
 ========
 
 .. include:: tarballs.rst
+
+Debian/Ubuntu
+=============
+
+If you're running a recent version of Debian or Ubuntu, you can install a
+nightly snapshot of Dulwich built by the `Debian Janitor
+<https://janitor.debian.net/>`_. See `the instructions
+<https://janitor.debian.net/fresh>`_ for details, or run::
+
+    echo deb "[arch=amd64 signed-by=/usr/share/keyrings/debian-janitor.gpg]" \
+        https://janitor.debian/net/ fresh-snapshots main | \
+        sudo tee /etc/apt/sources.list.d/fresh-snapshots.list
+    sudo curl -o /usr/share/keyrings/debian-janitor.gpg https://janitor.debian.net/pgp_keys
+    sudo apt update
+    sudo apt install -t fresh-snapshots python3-dulwich
 
