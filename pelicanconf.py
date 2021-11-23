@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-THEME = 'pelican-themes/iris'
+THEME = 'iris'
 
 TIMEZONE = 'Etc/UTC'
 
