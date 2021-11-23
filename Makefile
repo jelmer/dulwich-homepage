@@ -126,3 +126,7 @@ github: publish
 
 content/pages/tarballs.rst::
 	python3 tarballs.py > $@
+
+docker:
+	docker build -t ghcr.io/dulwich/homepage .
+	docker push ghcr.io/dulwich/homepage
