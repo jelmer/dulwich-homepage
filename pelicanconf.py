@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-THEME = 'iris'
+THEME = './iris'
 
 TIMEZONE = 'Etc/UTC'
 
@@ -28,6 +28,8 @@ LINKS = ()
 SOCIAL = (('github', 'https://github.com/dulwich/dulwich'),)
 
 DEFAULT_PAGINATION = 10
+
+FATHOM = 'NVIXX'
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
